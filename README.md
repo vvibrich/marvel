@@ -14,6 +14,7 @@ COMO INSTALAR
 Pré-Requisitos: Ter GIT instalado na máquina (https://git-scm.com/book/pt-br/v1/Primeiros-passos-Instalando-Git)
 
 Passo 1: Abra o seu terminal/CMD
+
 Passo 2: Digite o comando abaixo
 
 git clone https://github.com/vvibrich/marvel
